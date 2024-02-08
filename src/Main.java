@@ -63,7 +63,7 @@ public class Main
 
         ArrayList<Animal> gang = new ArrayList<Animal>();
         gang.add(new Dog("Nicholas"));
-        gang.add(new Labrador("ponnam", "black"));
+        gang.add(new Labrador("gogineni", "black"));
         gang.add(new Yorkshire("googs", 17));
 
         gang.get(0).setAge((int)(Math.random() * 10 + 1));
